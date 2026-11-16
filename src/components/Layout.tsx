@@ -61,19 +61,19 @@ export default function Layout() {
           tagline="Fresh street tacos, quesabirria, and homemade corn tortillas in Richmond, TX."
           items={[
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/young-people-enjoying-street-food_23-2151525827.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/young-people-enjoying-street-food_23-2151525827.jpg?_wi=2",
               imageAlt: "Fresh street tacos served on a plate"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/mexican-food_23-2148024802.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/mexican-food_23-2148024802.jpg?_wi=2",
               imageAlt: "Quesabirria tacos served on a plate"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/mexican-quesadilla-sliced-with-vegetables-sauces-table_2829-8409.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/mexican-quesadilla-sliced-with-vegetables-sauces-table_2829-8409.jpg?_wi=2",
               imageAlt: "Authentic tacos served with salsa bowl"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/delicious-tacos-arrangement_23-2150878193.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/delicious-tacos-arrangement_23-2150878193.jpg?_wi=2",
               imageAlt: "Close up of hot carne asada street tacos"
             }
           ]}

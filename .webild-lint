@@ -1,0 +1,9 @@
+src/components/Layout.tsx
+src/components/sections/faq/FaqPopRows.tsx
+src/components/sections/footer/FooterJuggleWordmark.tsx
+src/components/sections/hero/HeroPopTrio.tsx
+src/components/sections/menu/MenuGinghamCards.tsx
+src/components/sections/product/ProductStickerShelf.tsx
+src/components/sections/team/TeamTiltedCrew.tsx
+src/components/sections/testimonial/TestimonialBubbleCarousel.tsx
+src/pages/HomePage.tsx

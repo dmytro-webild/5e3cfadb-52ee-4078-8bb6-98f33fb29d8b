@@ -25,11 +25,11 @@ export default function HomePage() {
           introDelay={1.1}
           items={[
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/delicious-tacos-arrangement_23-2150878193.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/delicious-tacos-arrangement_23-2150878193.jpg?_wi=1",
               imageAlt: "close up of fresh street tacos"
             },
             {
-              imageSrc: "https://img.b2bpic.net/free-photo/mexican-food_23-2148024802.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/mexican-food_23-2148024802.jpg?_wi=1",
               imageAlt: "tacos on a black plate"
             },
             {
@@ -38,7 +38,7 @@ export default function HomePage() {
             }
           ]}
           sticker={{
-            imageSrc: "https://img.b2bpic.net/free-photo/young-people-enjoying-street-food_23-2151525827.jpg",
+            imageSrc: "https://img.b2bpic.net/free-photo/young-people-enjoying-street-food_23-2151525827.jpg?_wi=1",
             imageAlt: "tacos served on a plate"
           }}
         />
@@ -104,7 +104,7 @@ export default function HomePage() {
                   price: "$14",
                   description: "Consomé broth with melted cheese and slow-cooked beef birria.",
                   tag: "Popular",
-                  imageSrc: "https://img.b2bpic.net/free-photo/mexican-quesadilla-sliced-with-vegetables-sauces-table_2829-8409.jpg",
+                  imageSrc: "https://img.b2bpic.net/free-photo/mexican-quesadilla-sliced-with-vegetables-sauces-table_2829-8409.jpg?_wi=1",
                   imageAlt: "tacos on plate with sauce bowl"
                 },
                 {
